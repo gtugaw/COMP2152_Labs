@@ -1,0 +1,4 @@
+2026-02-17 13:52:07,ping,google.com,5.856,Success
+2026-02-17 13:52:16,nslookup,reddit.com,151.101.1.140,Success
+2026-02-17 13:52:26,ifconfig,en0,fa:fd:e2:a3:0d:ae / 10.4.144.248,Captured
+2026-02-17 13:52:29,arp,local,16 devices,Captured

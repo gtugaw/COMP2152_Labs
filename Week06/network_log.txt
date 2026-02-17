@@ -1,0 +1,10 @@
+[2026-02-17 13:52:07] PING google.com
+PING google.com (142.250.137.138): 56 data bytes
+64 bytes from 142.250.137.138: icmp_seq=0 ttl=115 time=5.782 ms
+64 bytes from 142.250.137.138: icmp_seq=1 ttl=115 time=5.719 ms
+64 bytes from 142.250.137.138: icmp_seq=2 ttl=115 time=6.066 ms
+
+--- google.com ping statistics ---
+3 packets transmitted, 3 packets received, 0.0% packet loss
+round-trip min/avg/max/stddev = 5.719/5.856/6.066/0.151 ms
+----------------------------------------
